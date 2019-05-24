@@ -2,7 +2,10 @@ package com.kh.semi;
 
 public class Bins {
 private void syso() {
-	// TODO Auto-generated method stub
+
+	public static void main(String[] args) {
+		asdasdad
+	}
 
 }
 }
