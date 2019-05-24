@@ -4,7 +4,7 @@ public class Bins {
 private void syso() {
 
 	public static void main(String[] args) {
-		asdasdad
+		System.out.println("safsaf");
 	}
 
 }
